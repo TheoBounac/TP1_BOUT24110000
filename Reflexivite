@@ -1,0 +1,61 @@
+# Debogage
+class Personne:
+    def __init__(self, nom, age):
+        self.nom = nom
+        self.age = age
+
+invite = []
+invite.append(Personne("Theo", 17))
+invite.append(Personne("Jean", 22))
+
+
+# Générer automatiquement un rapport sur les attributs de l'objet
+rapports = []
+for p in invite:
+    for attribut in dir(p):
+        rapport = {}
+        if not attribut.startswith('__'):
+            valeur_attribut = getattr(p, attribut)
+            rapport[attribut] = valeur_attribut
+        rapports.append(rapport)
+
+print("Rapport sur les attributs de l'objet Personne:")
+for rapport in rapports:
+    print("----------")
+    for attribut, valeur in rapport.items():
+        print(f"{attribut}: {valeur}")
+
+
+
+
+# Adaptabilite
+# Définition des classes d'articles
+class Prof:
+    def __init__(self, nom, age):
+        self.nom = nom
+        self.age = age
+
+class Vin:
+    def __init__(self, nom, age):
+        self.nom = nom
+        self.age = age
+
+# Ma configuration
+config = {
+    'type': 'Prof',
+    'nom': 'Kacimi',
+    'age': 54
+}
+
+# Charge dynamiquement la classe d'article en fonction de la configuration en utilisant la réflexivité
+type_objet = config['type']
+try:
+    classe_objet = globals()[type_objet]
+except KeyError:
+    raise ValueError(f"Type d'objet inconnu : {type_objet}")
+
+# Cré une instance de la classe d'objet
+article = classe_objet(config['nom'], config['age'])
+
+# Utilise l'objet comme nécessaire
+print(f"Article: {article.nom}, Age: ${article.age}")
