@@ -1,0 +1,14 @@
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\bin\Debug\net8.0\PrincipeD.exe
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\bin\Debug\net8.0\PrincipeD.deps.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\bin\Debug\net8.0\PrincipeD.runtimeconfig.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\bin\Debug\net8.0\PrincipeD.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\bin\Debug\net8.0\PrincipeD.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.AssemblyInfo.cs
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\refint\PrincipeD.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\PrincipeD.genruntimeconfig.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeD\obj\Debug\net8.0\ref\PrincipeD.dll

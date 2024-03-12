@@ -1,0 +1,14 @@
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\bin\Debug\net8.0\PrincipesS.exe
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\bin\Debug\net8.0\PrincipesS.deps.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\bin\Debug\net8.0\PrincipesS.runtimeconfig.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\bin\Debug\net8.0\PrincipesS.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\bin\Debug\net8.0\PrincipesS.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.AssemblyInfo.cs
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\refint\PrincipesS.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\PrincipesS.genruntimeconfig.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipesSOLID\obj\Debug\net8.0\ref\PrincipesS.dll

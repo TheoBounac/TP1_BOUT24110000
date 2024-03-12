@@ -1,0 +1,14 @@
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\bin\Debug\net8.0\PrincipeIrespecte.exe
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\bin\Debug\net8.0\PrincipeIrespecte.deps.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\bin\Debug\net8.0\PrincipeIrespecte.runtimeconfig.json
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\bin\Debug\net8.0\PrincipeIrespecte.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\bin\Debug\net8.0\PrincipeIrespecte.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.AssemblyInfo.cs
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\refint\PrincipeIrespecte.dll
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.pdb
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\PrincipeIrespecte.genruntimeconfig.cache
+C:\Users\Theo\Desktop\cours_chicoutimi\OPP\PrincipesSOLID\PrincipeIrespecte\obj\Debug\net8.0\ref\PrincipeIrespecte.dll
